@@ -1,6 +1,6 @@
 package:
   name: dtocean-economics
-  version: 1.0.0
+  version: {{ GIT_DESCRIBE_TAG }}
 
 source:
   # from git:
